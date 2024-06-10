@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MdMarufSheikh570
+- 👋 Hi, I’m Md Maruf Sheikh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++ and DSA
 - 💞️ I’m looking to collaborate on Open source project
